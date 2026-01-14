@@ -7,7 +7,7 @@ This repository contains a Power BI dashboard that provides a visual summary of 
 -Power Bi Desktop
 -Power Query
 -DAX(data analysis expression)
--file format
+
 
 ## 🔍 Key Features
 - Monthly and quarterly sales trends
